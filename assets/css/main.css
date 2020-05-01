@@ -3952,3 +3952,37 @@ input, select, textarea {
 		}
 
 /* additional */
+.info_section{
+	background-color: white;
+	display: flex;
+	align-items:center;
+	justify-content: space-between;
+	padding: 1em 7.5%;
+	outline: none;
+	outline: 0;
+
+}
+li{
+	vertical-align: middle;
+	list-style-type: none;
+	outline: none;
+	outline: 0;
+}
+#logo{
+	width: 150px;
+
+}
+
+.fa{
+	padding: 0px 1em;
+	color: #00b6de;
+	outline: none;
+	outline: 0;
+
+}
+
+.social{
+	display: flex;
+	outline: none;
+	outline: 0;
+}
