@@ -3958,15 +3958,14 @@ input, select, textarea {
 	align-items:center;
 	justify-content: space-between;
 	padding: 1em 7.5%;
-	outline: none;
-	outline: 0;
+
 
 }
 li{
 	vertical-align: middle;
 	list-style-type: none;
-	outline: none;
-	outline: 0;
+
+
 }
 #logo{
 	width: 150px;
@@ -3975,13 +3974,14 @@ li{
 
 .fa{
 	padding: 0px 1em;
-	outline: none;
-	outline: 0;
+	outline: hidden;
+
+
 
 }
 
 .social{
 	display: flex;
-	outline: none;
-	outline: 0;
+	outline: hidden;
+
 }
