@@ -1,0 +1,30 @@
+.wrapper_1{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
+.buttons{
+    display: flex;
+    text-align: center;
+}
+.link_button{
+    padding: 1em;
+    margin-right: 2em;
+    border: 2px;
+    border-style: solid;
+    height: 2em;
+    width: 8em;
+    border-radius: 4%;
+    text-decoration: none;
+    vertical-align: middle;
+    
+    border-color: black;
+}
+
+
+div, h1{
+    padding-bottom: 2em;
+}
+
+img{
+    width: 100%;
+}
